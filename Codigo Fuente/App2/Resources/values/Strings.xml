@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Titulo">Clave Administrador</string>
+  <string name="btnProcesar">Procesar</string>
+  <string name="lblEscribir">Escriba mac a calcular</string>
+  <string name="txtDesarrollado">Desarrollado por Johan Barahona</string>
+</resources>
