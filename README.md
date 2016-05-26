@@ -1,6 +1,6 @@
 ## MAC a PSW, algorítmo utilizado en algún Banco para las claves de administrador local.
 
-C# + Xamarin Studio.
+C# + Xamarin Studio
 
 la clave de administrador se basa en la dirección fisica de red del equipo, se manda como politica gpo desde un servidor active directory de la organización. Para mantener el control de las claves, se calcula de la siguiente forma:
 
